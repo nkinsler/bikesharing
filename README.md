@@ -15,7 +15,9 @@ Perform a bike trip analysis based on the results of available information from 
 ## Results
 
 1. CSV file's tripduration" column was converted to a datetime datatype.
+
 [IPYN_File]()
+
 [CSV_File]()
 
 2. Visualizations
@@ -23,30 +25,43 @@ Perform a bike trip analysis based on the results of available information from 
   
   ![Checkout times for users]()!
   
+  The bulk of users checkout time is trips under 30 minutes in length.  Most of the users cehckout times are for five minutes.
+  
   b. Checkout times by gender
   
   ![Checkout times by gender]()!
+  
+  The bulk of users checkout time is trips under 30 minutes in length.  Most of the users cehckout times are for five minutes.  Significantly more males checkout bikes as compared to females and unknowns.  The usage follows the same pattern where the bulk of usage is for 30 minutes or less.
   
   c. Trips by Weekday for each hour
   
   ![Trips by Weekday for each hour]()!
   
+  The concerntration of bike usage during weekdays are between 8am and 9am as well as 5pm to 7pm.  This would indicate that bike usage is heaviest when users are trying to get to and from work.  On weekends, the usage tends to be more conssitent from 9am to 7pm with higher usage on Saturday.
+  
   d. Trips by gender (weekday per hour)
   
   ![Trips by gender]()!
+  
+  The concentration of bike usage is the same as the trips by weekday for each hour analysis.  Results indicate higher usage by males during the smae times listed above.
   
   e. Trips by gender by weekday
   
   ![Trips by gender by weekday]()!
   
-  f.
+  Results indicate hihger usage by males with higher concentration on Thursdays and Fridays.  Female usage seems to be more consistent throughout the week with lower usage on Wednesdays and Sundays.
   
-  ![Checkout times for users]()!
+  f. Top starting locations
   
-  g. 
+  ![Top starting locations]()!
   
-  ![Checkout times for users]()!
+  Higher usage for starting locations are located around subway stations and points of interest.
   
+  g. Top ending locations
+  
+  ![Top ending locations]()!
+  
+  Higher usage for ending locations are located around subway stations and points of interest.  The similarities between starting and ending location concentrations indicate that users tend to rent bikes agains to get back to their original locations.
 
 ## Summary
 
