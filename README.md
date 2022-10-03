@@ -18,7 +18,6 @@ Perform a bike trip analysis based on the results of available information from 
 
 [IPYN_File](https://github.com/nkinsler/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
-[CSV_File]()
 
 2. Visualizations
   a. Checkout times for users
@@ -66,3 +65,11 @@ Perform a bike trip analysis based on the results of available information from 
 ## Summary
 
 [Link to dashboard](https://public.tableau.com/app/profile/nicholas.kinsler/viz/bikesharingchallenge_16645629353590/NYCBikeSharing?publish=yes)
+
+### Overall Summary
+
+NYC bike sharing relies heavily on subscribers.  Subscribers are mostly using for getting to and from work.  Customers outside subscribers are using on weekeneds possibly to tour major tourist areas.  In order to apply to Des Moines, will need to assess the subscription base in the area.  Reaching out to local businesses will lead to higher success rate and ability to properly assess drop off points for the bikes.
+
+### Additional Visualizations
+1. Price per Trip - Know how much you are receiving for each trip on average.
+2. Cost per Trip - Know costs per trip on average.
