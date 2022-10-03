@@ -65,4 +65,4 @@ Perform a bike trip analysis based on the results of available information from 
 
 ## Summary
 
-[Link to dashboard]()
+[Link to dashboard](https://public.tableau.com/app/profile/nicholas.kinsler/viz/bikesharingchallenge_16645629353590/NYCBikeSharing?publish=yes)
