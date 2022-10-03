@@ -59,7 +59,7 @@ Perform a bike trip analysis based on the results of available information from 
   
   g. Top ending locations
   
-  ![Top ending locations](https://github.com/nkinsler/bikesharing/blob/main/Resources/Top%20ending%20locations.png)!
+  ![Top ending locations](https://github.com/nkinsler/bikesharing/blob/main/Resources/Top%20end%20locations.png)!
   
   Higher usage for ending locations are located around subway stations and points of interest.  The similarities between starting and ending location concentrations indicate that users tend to rent bikes agains to get back to their original locations.
 
